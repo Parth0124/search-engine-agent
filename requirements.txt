@@ -17,3 +17,6 @@ fastapi
 uvicorn
 langserve
 pypdf
+arxiv
+wikipedia
+duckduckgo-search
